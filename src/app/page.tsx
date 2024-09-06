@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { AccordionExample, AlertExample } from "@/components";
+import { AccordionExample, AlertExample, AlertDialogExample } from "@/components";
 
 const HomePage: FC = (): JSX.Element => {
   return (
@@ -7,6 +7,8 @@ const HomePage: FC = (): JSX.Element => {
       <AccordionExample />
 
       <AlertExample />
+
+      <AlertDialogExample />
     </main>
   );
 };
