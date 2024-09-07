@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { AccordionExample, AlertExample, AlertDialogExample, AspectRatioExample } from "@/components";
+import { AccordionExample, AlertExample, AlertDialogExample, AspectRatioExample, AvatarExample } from "@/components";
 
 const HomePage: FC = (): JSX.Element => {
   return (
@@ -11,6 +11,8 @@ const HomePage: FC = (): JSX.Element => {
       <AlertDialogExample />
 
       <AspectRatioExample />
+
+      <AvatarExample />
     </main>
   );
 };
