@@ -7,13 +7,11 @@ export const metadata: Metadata = {
   description: "ShadCN UI Exercise Application",
 };
 
-const RootLayout: FC<Readonly<PropsWithChildren>> = ({ children }): JSX.Element => {
-  return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
-  );
-};
+const RootLayout: FC<Readonly<PropsWithChildren>> = ({ children }): JSX.Element => (
+  <html lang="en">
+    <body>{children}</body>
+  </html>
+);
 
 export default RootLayout;
 
