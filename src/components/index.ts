@@ -7,3 +7,4 @@ export { default as AvatarExample } from "./examples/AvatarExample";
 export { default as BadgeExample } from "./examples/BadgeExample";
 export { default as BreadcrumbExample } from "./examples/BreadcrumbExample";
 export { default as ButtonExample } from "./examples/ButtonExample";
+export { default as CalendarExample } from "./examples/CalendarExample";
