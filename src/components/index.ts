@@ -8,3 +8,4 @@ export { default as BadgeExample } from "./examples/BadgeExample";
 export { default as BreadcrumbExample } from "./examples/BreadcrumbExample";
 export { default as ButtonExample } from "./examples/ButtonExample";
 export { default as CalendarExample } from "./examples/CalendarExample";
+export { default as CardExample } from "./examples/CardExample";
