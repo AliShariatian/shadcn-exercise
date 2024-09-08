@@ -10,3 +10,4 @@ export { default as ButtonExample } from "./examples/ButtonExample";
 export { default as CalendarExample } from "./examples/CalendarExample";
 export { default as CardExample } from "./examples/CardExample";
 export { default as CarouselExample } from "./examples/CarouselExample";
+export { default as CheckboxExample } from "./examples/CheckboxExample";
