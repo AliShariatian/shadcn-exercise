@@ -24,4 +24,3 @@ const Item: FC<{ name: string; Component: FC }> = ({ Component, name }): JSX.Ele
 );
 
 export default HomePage;
-

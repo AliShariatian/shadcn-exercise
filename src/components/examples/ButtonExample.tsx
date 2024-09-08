@@ -4,7 +4,7 @@ import { Button } from "@/components/base/button";
 
 const ButtonExample: FC = (): JSX.Element => {
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center flex-wrap gap-2">
       <Button variant="default">Default</Button>
       <Button variant="secondary">Secondary</Button>
       <Button variant="destructive">Destructive</Button>
