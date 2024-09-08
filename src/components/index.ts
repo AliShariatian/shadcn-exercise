@@ -12,3 +12,4 @@ export { default as CardExample } from "./examples/CardExample";
 export { default as CarouselExample } from "./examples/CarouselExample";
 export { default as CheckboxExample } from "./examples/CheckboxExample";
 export { default as DialogExample } from "./examples/DialogExample";
+export { default as CollapsibleExample } from "./examples/CollapsibleExample";
