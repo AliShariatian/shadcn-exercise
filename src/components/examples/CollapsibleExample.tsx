@@ -1,11 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { FC, useState } from "react";
 import { ChevronsUpDown } from "lucide-react";
 import { Button } from "@/components/base/button";
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@/components/base/collapsible";
 
-const CollapsibleExample = () => {
+const CollapsibleExample: FC = (): JSX.Element => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (

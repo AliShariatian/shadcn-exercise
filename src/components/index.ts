@@ -13,3 +13,5 @@ export { default as CarouselExample } from "./examples/CarouselExample";
 export { default as CheckboxExample } from "./examples/CheckboxExample";
 export { default as DialogExample } from "./examples/DialogExample";
 export { default as CollapsibleExample } from "./examples/CollapsibleExample";
+export { default as ProgressExample } from "./examples/ProgressExample";
+export { default as HoverCardExample } from "./examples/HoverCardExample";
